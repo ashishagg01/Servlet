@@ -1,0 +1,263 @@
+{
+  "@type": "RecordDetailsService",
+  "name": "Record Details Service",
+  "recordDetails": {
+    "@type": "ProductDetail",
+    "record": {
+      "@class": "com.endeca.infront.cartridge.model.Record",
+      "numRecords": 0,
+      "attributes": {
+        "p_hotel_star_review_rating": [
+          "4.3"
+        ],
+        "p_address1": [
+          "1535 Broadway"
+        ],
+        "p_phone": [
+          "1 212-398-1900"
+        ],
+        "p_city": [
+          "New York"
+        ],
+        "p_has_photo_tour": [
+          "YES"
+        ],
+        "p_openingdate": [
+          "1985-09-03"
+        ],
+        "p_hotel_recommended_percentage": [
+          "92"
+        ],
+        "p_state_province": [
+          "NY"
+        ],
+        "p_quickgroup_part_code": [
+          "3"
+        ],
+        "p_brandcode": [
+          "MC"
+        ],
+        "Transportation": [
+          "Parking"
+        ],
+        "p_num_guest_rooms": [
+          "1966"
+        ],
+        "p_reception_capacity": [
+          "2800"
+        ],
+        "Amenities": [
+          "Business center",
+          "Fitness center",
+          "High-speed Internet",
+          "Plug In Panel",
+          "Restaurant on-site",
+          "Room service"
+        ],
+        "p_display_name": [
+          "New York Marriott Marquis"
+        ],
+        "Record Type": [
+          "PROPERTY"
+        ],
+        "p_hotel_marketing_caption": [
+          "Manhattan hotel on Broadway. Just steps away from iconic Times Square."
+        ],
+        "p_location_info_fr_FR": [
+          "Toute la ville à deux pas de votre chambre. Situé au cœur de Times Square, notre hôtel de New York se trouve à quelques pas des théâtres de Broadway, du Rockefeller Center, du musée de cire Madame Tussauds, de M&M's World, du Disney Store et de bien d'autres sites touristiques."
+        ],
+        "p_location_info_es": [
+          "Podrá explorar toda la ciudad desde el hotel. Ubicado en el corazón de Times Square, este hotel de Nueva York se encuentra a pasos una gran variedad de atracciones famosas, como los teatros de Broadway, el Rockefeller Center, el Museo de Cera Madame Tussaud, la tienda de M&M y la tienda de Disney."
+        ],
+        "p_pool": [
+          "N"
+        ],
+        "p_hotel_guest_recommended_categories": [
+          "Local Attractions~|~Leisure~|~Weekend~|~Couples"
+        ],
+        "Meetings & Events": [
+          "Certified meeting planner",
+          "Marriott-certified wedding planner",
+          "Meeting event space",
+          "Meeting Services App",
+          "Meetings Imagined"
+        ],
+        "p_hotel_location_rating": [
+          "4.9"
+        ],
+        "p_has_res_link": [
+          "Y"
+        ],
+        "p_country_code": [
+          "US"
+        ],
+        "p_zip": [
+          "10036"
+        ],
+        "Country": [
+          "USA"
+        ],
+        "p_location_info_de_DE": [
+          "Erleben Sie die Stadt direkt von unserem Hotel aus. Unser Hotel in New York City befindet sich in zentraler Lage am Times Square und ist nur wenige Schritte von verschiedenen legendären Sehenswürdigkeiten wie den Theatern am Broadway, dem Rockefeller Center, Madame Tussaud's Wax Museum, dem M&M Store und dem Disney Store entfernt."
+        ],
+        "p_banquet_capacity": [
+          "2400"
+        ],
+        "p_indoor_pool": [
+          "N"
+        ],
+        "p_non_branded": [
+          "N"
+        ],
+        "p_record_type": [
+          "PROPERTY"
+        ],
+        "p_record_spec": [
+          "Property_NYCMQ"
+        ],
+        "p_min_night_restrict": [
+          "N"
+        ],
+        "p_location_info": [
+          "See the city from your doorstep. Located in the heart of Times Square, our NYC hotel is steps from a variety of legendary attractions including Broadway theaters, Rockefeller Center, Madame Tussaud's Wax Museum, the M&M Store and the Disney Store."
+        ],
+        "p_nickname": [
+          "New York Marriott Marquis"
+        ],
+        "p_geocode": [
+          "40.757939,-73.985761"
+        ],
+        "p_hotel_dining_rating": [
+          "4.1"
+        ],
+        "Rewards Category": [
+          "Category9"
+        ],
+        "p_leisure_pri_region": [
+          "United States"
+        ],
+        "p_state_code": [
+          "NY"
+        ],
+        "p_longitude": [
+          "-73.98567"
+        ],
+        "p_hotel_service_rating": [
+          "0.0"
+        ],
+        "UseRewardsPoints": [
+          "Yes"
+        ],
+        "p_bookingrate": [
+          "913.024600"
+        ],
+        "p_hotel_age": [
+          "30.727740663673201182"
+        ],
+        "Landing_Page_Type": [
+          "Hotel Directory Page",
+          "MiniStores Manual Page",
+          "MiniStores Page",
+          "Quick Groups Page",
+          "Standard Search Page"
+        ],
+        "p_hotel_number_of_reviews": [
+          "513"
+        ],
+        "p_num_meeting_rooms": [
+          "48"
+        ],
+        "p_hotel_amenities_rating": [
+          "4.3"
+        ],
+        "p_hotel_cleanliness_rating": [
+          "0.0"
+        ],
+        "p_largest_event_room": [
+          "28258.000000"
+        ],
+        "p_latitude": [
+          "40.758765"
+        ],
+        "p_fillrate": [
+          "0.464407"
+        ],
+        "p_openingsoon": [
+          "N"
+        ],
+        "Locale": [
+          "Chinese",
+          "French",
+          "German",
+          "Japanese",
+          "Korean",
+          "Latino America",
+          "UK",
+          "US"
+        ],
+        "p_location_info_zh_CN": [
+          "????,?????????????????????????,???????????????,???????????????????????M&M ????????????"
+        ],
+        "Hotel Service": [
+          "Full service",
+          "Luxury"
+        ],
+        "p_hotel_location_type": [
+          "D"
+        ],
+        "City": [
+          "New York"
+        ],
+        "State": [
+          "New York"
+        ],
+        "p_location_info_ja_JP": [
+          "??????????????????????????????????????????????? ?????????M&M'S????????????????????????????????????????????????????????"
+        ],
+        "p_outdoor_pool": [
+          "N"
+        ],
+        "p_marsha_code": [
+          "NYCMQ"
+        ],
+        "Language": [
+          "Chinese",
+          "English",
+          "French",
+          "German",
+          "Japanese",
+          "Korean",
+          "Spanish"
+        ],
+        "p_hotel_value_for_money_rating": [
+          "3.9"
+        ],
+        "ResultsViewType": [
+          "Gallery",
+          "List",
+          "Map"
+        ]
+      }
+    }
+  },
+  "endeca:siteRootPath": "\/services",
+  "endeca:contentPath": "\/recorddetails",
+  "endeca:assemblerRequestInformation": {
+    "@type": "AssemblerRequestEvent",
+    "endeca:eneTime": 3,
+    "endeca:requestType": "R",
+    "endeca:assemblyStartTimestamp": 1464674960201,
+    "endeca:assemblyFinishTimestamp": 1464674960209,
+    "endeca:contentPath": "\/recorddetails",
+    "endeca:sessionId": "C158E7FD51394E531DC7C8FBE33635A8",
+    "endeca:recordSpec": "Property_NYCMQ",
+    "endeca:siteRootPath": "\/services"
+  },
+  "canonicalLink": {
+    "@class": "com.endeca.infront.cartridge.model.RecordAction",
+    "recordState": "?R=Property_NYCMQ",
+    "contentPath": "\/recorddetails",
+    "siteRootPath": "\/services",
+    "label": ""
+  }
+}

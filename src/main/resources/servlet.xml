@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:camel="http://camel.apache.org/schema/spring"
+       xmlns:broker="http://activemq.apache.org/schema/core"
+       xmlns:prop="http://camel.apache.org/schema/placeholder"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+            
+
+    <routeContext id="servlet1" xmlns="http://camel.apache.org/schema/spring">
+	             
+        <route id="inittestxmlinput">
+            <from uri="servlet:///fsl/testxmlinput"/>
+            <setHeader headerName="CamelEnrichResourcePath">
+                <simple>{{TEST_INPUT_XML}}</simple>
+            </setHeader>
+            <process ref="enrichProcessor" />
+            <to uri="log:org.apache.camel?level=DEBUG&amp;showAll=true"/>
+        </route>
+        
+        
+    </routeContext>
+</beans>
